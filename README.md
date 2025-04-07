@@ -1,2 +1,2 @@
 # LSTM_Study
-This is a replication of an LSTM study 
+This is a replication of an LSTM study by Qing and Niu (2018), which applies Long Short-Term Memory (LSTM) neural networks to forecast hourly day-ahead solar irradiance using weather forecasts. The 3 CSV files are datasets from MIDC whilst Forecast_NREL.py is the authors own code for the LSTM algorithm. I attempt to recreate Experiment 3 and the values in Table 4 in the study using the data and the professors original code.
